@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+:root {
+  box-sizing: border-box;
+  line-height: calc(1em + 0.5rem);
+  -webkit-font-smoothing: antialiased;
+  margin: 0;
+  padding: 0;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
